@@ -1,0 +1,3 @@
+Route,Transit time,Cumulative ice risk,Max. risk,Avg. risk,Distance (km),Distance (NM),Feasibility
+Baseline: shortest great-circle,53.1 hrs,340.2,0.71,0.36,958.0,517.3,Fail
+Proposed: risk-aware route (DIJKSTRA),58.7 hrs,286.4,0.71,0.24,1179.2,636.7,Fail
